@@ -32,6 +32,6 @@ markdown_extensions:
   - pymdownx.superfences
 plugins:
   - search
-  - git-authors
+  #- git-authors
   - git-revision-date
 
