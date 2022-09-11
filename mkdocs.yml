@@ -33,5 +33,5 @@ markdown_extensions:
 plugins:
   - search
   #- git-authors
-  - git-revision-date
+  #- git-revision-date
 
